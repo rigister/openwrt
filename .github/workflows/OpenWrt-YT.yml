@@ -1,6 +1,6 @@
 name: OpenWrt-YT
 
-on:[push] 
+on:  [push]
   #push:
    # branches: 
     #  - master
